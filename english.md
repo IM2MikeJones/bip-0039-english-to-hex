@@ -1,6 +1,6 @@
 # English Words Dictionary
 
-This document contains a comprehensive list of 2048 English words with their corresponding index, hexadecimal, and binary representations.
+This document contains the list of 2048 English words with their corresponding index, hexadecimal, and binary representations.
 
 ## Word List
 
@@ -2054,3 +2054,4 @@ This document contains a comprehensive list of 2048 English words with their cor
 | 2045  | 7FD | 11111111101 | zero     |
 | 2046  | 7FE | 11111111110 | zone     |
 | 2047  | 7FF | 11111111111 | zoo      |
+
