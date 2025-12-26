@@ -664,7 +664,7 @@ This document contains the list of 2048 English words with their corresponding i
 | 655   | 28F | 01010001111 | faint    |
 | 656   | 290 | 01010010000 | faith    |
 | 657   | 291 | 01010010001 | fall     |
-| 658   | 292 | 01010010010 | FALSE    |
+| 658   | 292 | 01010010010 | false    |
 | 659   | 293 | 01010010011 | fame     |
 | 660   | 294 | 01010010100 | family   |
 | 661   | 295 | 01010010101 | famous   |
@@ -1872,7 +1872,7 @@ This document contains the list of 2048 English words with their corresponding i
 | 1863  | 747 | 11101000111 | trophy   |
 | 1864  | 748 | 11101001000 | trouble  |
 | 1865  | 749 | 11101001001 | truck    |
-| 1866  | 74A | 11101001010 | TRUE     |
+| 1866  | 74A | 11101001010 | true     |
 | 1867  | 74B | 11101001011 | truly    |
 | 1868  | 74C | 11101001100 | trumpet  |
 | 1869  | 74D | 11101001101 | trust    |
@@ -2054,4 +2054,5 @@ This document contains the list of 2048 English words with their corresponding i
 | 2045  | 7FD | 11111111101 | zero     |
 | 2046  | 7FE | 11111111110 | zone     |
 | 2047  | 7FF | 11111111111 | zoo      |
+
 
