@@ -1,6 +1,6 @@
 # English Words Dictionary
 
-This document contains the list of 2048 English words for standard Bitcoin HD (BIP-39) wallets with their corresponding index, hexadecimal, and binary representations.
+This document contains the list of 2048 English words used as seed phrases by Bitcoin HD wallets (BIP-39) and their corresponding index, hexadecimal, and binary representations.
 
 ## Word List
 
@@ -2054,6 +2054,7 @@ This document contains the list of 2048 English words for standard Bitcoin HD (B
 | 2045  | 7FD | 11111111101 | zero     |
 | 2046  | 7FE | 11111111110 | zone     |
 | 2047  | 7FF | 11111111111 | zoo      |
+
 
 
 
