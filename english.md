@@ -1,6 +1,6 @@
 # English Words Dictionary
 
-This document contains the list of 2048 English words used as seed phrases by Bitcoin HD wallets [BIP-39](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and their corresponding index, hexadecimal, and binary representations.
+This document contains the list of 2048 English words used as seed phrases by Bitcoin [HD](https://github.com/bitcoin/bips/blob/master/bip-0032/derivation.png) wallets [BIP-39](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and their corresponding index, hexadecimal, and binary representations.
 
 ## Word List
 
@@ -2054,6 +2054,7 @@ This document contains the list of 2048 English words used as seed phrases by Bi
 | 2045  | 7FD | 11111111101 | zero     |
 | 2046  | 7FE | 11111111110 | zone     |
 | 2047  | 7FF | 11111111111 | zoo      |
+
 
 
 
